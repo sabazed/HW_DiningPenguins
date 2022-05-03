@@ -1,3 +1,4 @@
+# Dining Penguins
 <p>In this problem, we are trying to simulate dining penguins. 4 penguins are sitting at the table, ready to eat their dinner. As you might know, penguin's habits are unusual: Each penguin needs exactly 2 forks to eat, but they have only 4 forks at the table.</p>
 <h4 id="simulation">Simulation</h4>
 <p>Penguins do not wait for each other to eat, they start dining simultaneously, that's why we use <code>Thread</code>s.</p>
